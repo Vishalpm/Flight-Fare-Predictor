@@ -62,7 +62,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd9%2FNode.js_logo.svg%2F590px-Node.js_logo.svg.png&tbnid=FPUvBaSpZff7rM&vet=12ahUKEwj6scG4mJj_AhUo6HMBHdM3AAUQMygBegUIARDAAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANode.js_logo.svg&docid=iZr4CeEAMgujmM&w=590&h=361&q=nodejs%20img&ved=2ahUKEwj6scG4mJj_AhUo6HMBHdM3AAUQMygBegUIARDAAQ>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)
 
 ## Bug / Feature Request
 
