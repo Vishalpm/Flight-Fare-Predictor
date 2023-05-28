@@ -1,0 +1,22 @@
+{
+  "name": "new3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "child-process-promise": "^2.2.1",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pickle": "^0.2.0",
+    "python": "^0.0.4",
+    "scikit": "^0.0.1"
+  }
+}
